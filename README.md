@@ -1,2 +1,4 @@
-LinkC
-=====
+## LinkC: A software for the measurement and variance component estimation of linkage disequilibria in subdivided populations
+### Peter D. Fields and Mark Morgan
+### Abstract
+LinkC is a reimplementation of the software softwares LinkDis and LinkDos, and allows for estimation of a number of population genetic summaries useful for understanding the presence of linkage disequilibrium, and its biological basis, including a hierarchical portioning of LD for subdivided populations, on large-scale, recently derived molecular population genetic datasets. LinkC is available as a binary for all modern operating systems, as well in the form of source code, https://github.com/peterdfields/Fields_Morgan_LinkC. LinkC can also be accessed with any internet capable computer through Genepop on the Web: http://genepop.curtin.edu.au/linkC.html.
